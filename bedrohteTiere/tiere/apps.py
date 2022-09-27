@@ -3,4 +3,4 @@ from django.apps import AppConfig
 
 class TiereConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'tiere'
+    name = 'bedrohteTiere.tiere'
