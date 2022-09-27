@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'bedrohteTiere.tiere',
+    'tiere',
     'rest_framework',
     'corsheaders',
 ]
