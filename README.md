@@ -1,10 +1,10 @@
+This project is the backend to an angular web app which was developed for a course in university.
+
 # Run the project
 To run this project you need to install:
 - [ ]  [Python](https://www.python.org/downloads/)
 - [ ] [Professional pycharm](https://www.jetbrains.com/pycharm/) -> There is a free version for students.
-- [ ] Download the project from Gitlab to be used locally, via Terminal / 
-PowerShell with the command “git clone https://r-n-d.informatik.hs-augsburg.de:8080/piapr/lastchancewebprojekt.git and open the project in pycharm. Or `you can git clone directly to PyCharm (open PyCharm->Get from control 
-version->paste URL of package)`
+- [ ] Download the project
 - [ ] Create virtual environment and activate it using this command (name of your 
 venv\Scripts\activate) by terminal.
 - [ ]  Run this command (pip install -r requirements.txt). To install Libraries.
